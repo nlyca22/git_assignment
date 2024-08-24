@@ -26,10 +26,9 @@ Step 7: Review and Merge: The repository owner (myself) or collaborators will re
 d. Describe the steps to add a collaborator to a repository (share write permissions)
 Step 1: Navigate to the repository on Github where I want to add a collaborator
 Step 2: Click on "Settings" tab top of the repository page
-Step 3: In the "Settings, scroll down to find and click on "Manage access" 
-Step 4: Invite collaborator(s)
-Step 5: Click the "Invite a collaborator" button
-Step 6: Enter the GitHub username(s) or email(s) of the person(s) I want to add
+Step 3: In the "Settings, on the left hand side, click on "Collaborators"  
+Step 4: Under Manage Access, click on "Add people" 
+Step 5: Enter the GitHub username(s) or email(s) of the person(s) I want to add
 Step 7: Click "Add" to send the invitation. Note: The invited user(s) will receive a notification and must accept the invitation to gain access.
 
 
