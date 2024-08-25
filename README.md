@@ -1,4 +1,4 @@
-# Git Assignment - <nlyca22>
+# Git Assignment - nlyca22
 
 a. What is an issue?
 In GitHub, an "issue" is a way to track issues, tasks, bugs, enhancement, or any type of work that we want to track for a project. It allows our team-mates or colleagues to collaborate on work. Issues can also be labeled, assigned to team-members, linked to specific milestones, or pull requests. 
