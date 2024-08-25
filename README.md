@@ -54,3 +54,4 @@ Changes are usually merged into the "main branch" only after they've been tested
 h. Besides our initial commit if it is a new repository, should we directly push our changes directly into the main branch?
 No, we should generally avoid pushing changes directly to the main branch, especially in collaborative projects. 
 Instead, we should create a new branch for our changes and then merge them back into the main branch through a pull request. (This approach allows for code review and testing, ensuring that the main branch remains stable and free of bugs.)
+# Minor change for Pull Request
